@@ -14,6 +14,7 @@ Matricula:
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+![Brasão](images/brasao_puc.png)
 
 
 ## Orientações sobre Linguagem MarkDown
