@@ -10,11 +10,12 @@ Matricula:
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção do navegador no site do google](images/print_inspecao.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-![Brasão](images/brasao_puc.png)
+
 
 
 ## Orientações sobre Linguagem MarkDown
